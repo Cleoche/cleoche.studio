@@ -1,13 +1,16 @@
-body{
+body {
     background-color: beige;
     font-family: JetBrains Mono, monospace;
 }
 
-h1{
+h1 {
     text-align: center;
     color: black;
 }
-
-img{
-    margin: auto;
+/* Classes */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
 }
